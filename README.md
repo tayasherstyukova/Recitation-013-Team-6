@@ -3,4 +3,4 @@
 Taisiia Sherstiukova @tayasherstyukova
 Ruby Gavagan @RubyGavagan
 Adrian Reghitto @adre5577
-Nicholas Hellmerss @nihe1661
+Nicholas Hellmers @nihe1661
