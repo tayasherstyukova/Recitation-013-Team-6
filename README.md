@@ -6,4 +6,4 @@ Adrian Reghitto @adre5577
 Niki Hellmers @nihe1661
 
 ## Project Team Members:
-Adrian Reghitto
+Adrian Bro
