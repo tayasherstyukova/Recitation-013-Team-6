@@ -2,11 +2,10 @@
 Taisiia Sherstiukova @tayasherstyukova
 Ruby Gavagan @RubyGavagan
 Adrian Reghitto @adre5577
-Nicholas Hellmers @nihe1661
+Niki Hellmers @nihe1661
 
 <<<<<<< HEAD
-Project team members: Taisiia Sherstiukova
+## Project team members: 
+Adrian Reghitto
 
-=======
-# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> main
+
