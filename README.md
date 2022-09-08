@@ -16,5 +16,4 @@ Adrian Reghitto
  tayasherstyukova-taya
 
 ## Project Team Members:
-Adrian Reghitto
-main
+Adrian Bro
