@@ -4,7 +4,6 @@ Ruby Gavagan @RubyGavagan
 Adrian Reghitto @adre5577
 Niki Hellmers @nihe1661
 
-<<<<<<< HEAD
 ## Project team members: 
 Adrian Reghitto
 
