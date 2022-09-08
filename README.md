@@ -5,4 +5,5 @@ Ruby Gavagan @RubyGavagan
 Adrian Reghitto @adre5577
 Nicholas Hellmers @nihe1661
 
-# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+## Project Team Members:
+Adrian Reghitto
