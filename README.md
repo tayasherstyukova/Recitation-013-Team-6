@@ -4,5 +4,9 @@ Ruby Gavagan @RubyGavagan
 Adrian Reghitto @adre5577
 Nicholas Hellmers @nihe1661
 
+<<<<<<< HEAD
 Project team members: Taisiia Sherstiukova
 
+=======
+# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> main
