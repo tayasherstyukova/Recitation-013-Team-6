@@ -6,4 +6,3 @@ Nicholas Hellmers @nihe1661
 
 Project team members: Taisiia Sherstiukova
 
-hello
